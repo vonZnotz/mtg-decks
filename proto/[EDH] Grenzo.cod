@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Grenzo, Dungeon Warden"/>
+        <card number="1" price="0" name="Cabal Coffers"/>
+        <card number="1" price="0" name="Caged Sun"/>
+        <card number="1" price="0" name="Gauntlet of Power"/>
+        <card number="1" price="0" name="Mana Flare"/>
+        <card number="1" price="0" name="Braid of Fire"/>
+        <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" price="0" name="Crypt Ghast"/>
+        <card number="1" price="0" name="Goblin Replica"/>
+        <card number="1" price="0" name="Scarecrone"/>
+        <card number="1" price="0" name="Arcbound Ravager"/>
+        <card number="1" price="0" name="Thopter Squadron"/>
+        <card number="1" price="0" name="Triskelavus"/>
+        <card number="1" price="0" name="Goblin Welder"/>
+        <card number="1" price="0" name="Pentavus"/>
+        <card number="1" price="0" name="Krark-Clan Engineers"/>
+        <card number="1" price="0" name="Junk Diver"/>
+        <card number="1" price="0" name="Myr Retriever"/>
+        <card number="1" price="0" name="Vessel of Endless Rest"/>
+        <card number="1" price="0" name="Junktroller"/>
+        <card number="1" price="0" name="Triskelion"/>
+        <card number="1" price="0" name="Arcbound Crusher"/>
+        <card number="1" price="0" name="Arcbound Reclaimer"/>
+        <card number="1" price="0" name="Clockwork Dragon"/>
+        <card number="1" price="0" name="Arcbound Bruiser"/>
+        <card number="1" price="0" name="Arcbound Fiend"/>
+        <card number="1" price="0" name="Arcbound Hybrid"/>
+        <card number="1" price="0" name="Arcbound Lancer"/>
+        <card number="1" price="0" name="Arcbound Overseer"/>
+        <card number="1" price="0" name="Clockwork Vorrac"/>
+        <card number="1" price="0" name="Disciple of the Vault"/>
+        <card number="1" price="0" name="Cranial Plating"/>
+        <card number="1" price="0" name="Heartstone"/>
+        <card number="1" price="0" name="Jar of Eyeballs"/>
+        <card number="1" price="0" name="Skullclamp"/>
+        <card number="1" price="0" name="Tel-Jilad Stylus"/>
+        <card number="1" price="0" name="Moriok Rigger"/>
+        <card number="1" price="0" name="Steel Overseer"/>
+        <card number="1" price="0" name="Mindless Automaton"/>
+        <card number="1" price="0" name="Stuffy Doll"/>
+        <card number="1" price="0" name="Trading Post"/>
+        <card number="1" price="0" name="Myr Welder"/>
+        <card number="1" price="0" name="Phyrexian Revoker"/>
+        <card number="1" price="0" name="Solemn Simulacrum"/>
+        <card number="1" price="0" name="Lodestone Myr"/>
+        <card number="1" price="0" name="Shimmer Myr"/>
+        <card number="1" price="0" name="Moriok Replica"/>
+        <card number="1" price="0" name="Chief of the Foundry"/>
+        <card number="1" price="0" name="Duplicant"/>
+        <card number="1" price="0" name="Darksteel Juggernaut"/>
+        <card number="1" price="0" name="Etched Champion"/>
+        <card number="1" price="0" name="Ghirapur AEther Grid"/>
+        <card number="18" price="0" name="Swamp"/>
+        <card number="19" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Avarice Amulet"/>
+        <card number="1" price="0" name="Buried Ruin"/>
+        <card number="1" price="0" name="Alloy Myr"/>
+        <card number="1" price="0" name="Iron Myr"/>
+        <card number="1" price="0" name="Leaden Myr"/>
+        <card number="1" price="0" name="Palladium Myr"/>
+        <card number="1" price="0" name="Plague Myr"/>
+        <card number="1" price="0" name="Darksteel Forge"/>
+        <card number="1" price="0" name="High Market"/>
+        <card number="1" price="0" name="Daretti, Scrap Savant"/>
+        <card number="1" price="0" name="Purphoros, God of the Forge"/>
+    </zone>
+</cockatrice_deck>

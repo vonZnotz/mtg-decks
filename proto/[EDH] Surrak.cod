@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Ainok Survivalist"/>
+        <card number="1" price="0" name="Chromeshell Crab"/>
+        <card number="1" price="0" name="Echo Tracer"/>
+        <card number="1" price="0" name="Sakura-Tribe Elder"/>
+        <card number="1" price="0" name="Solemn Simulacrum"/>
+        <card number="1" price="0" name="Yavimaya Elder"/>
+        <card number="1" price="0" name="Lurking Predators"/>
+        <card number="1" price="0" name="Mulldrifter"/>
+        <card number="1" price="0" name="Surrak Dragonclaw"/>
+        <card number="1" price="0" name="Craterhoof Behemoth"/>
+        <card number="1" price="0" name="Trygon Predator"/>
+        <card number="1" price="0" name="Reclamation Sage"/>
+        <card number="1" price="0" name="Asceticism"/>
+    </zone>
+</cockatrice_deck>
